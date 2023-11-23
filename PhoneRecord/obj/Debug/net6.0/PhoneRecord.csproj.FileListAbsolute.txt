@@ -1,0 +1,15 @@
+C:\Users\ecebs\RiderProjects\PhoneRecord\PhoneRecord\bin\Debug\net6.0\PhoneRecord.exe
+C:\Users\ecebs\RiderProjects\PhoneRecord\PhoneRecord\bin\Debug\net6.0\PhoneRecord.deps.json
+C:\Users\ecebs\RiderProjects\PhoneRecord\PhoneRecord\bin\Debug\net6.0\PhoneRecord.runtimeconfig.json
+C:\Users\ecebs\RiderProjects\PhoneRecord\PhoneRecord\bin\Debug\net6.0\PhoneRecord.dll
+C:\Users\ecebs\RiderProjects\PhoneRecord\PhoneRecord\bin\Debug\net6.0\PhoneRecord.pdb
+C:\Users\ecebs\RiderProjects\PhoneRecord\PhoneRecord\obj\Debug\net6.0\PhoneRecord.csproj.AssemblyReference.cache
+C:\Users\ecebs\RiderProjects\PhoneRecord\PhoneRecord\obj\Debug\net6.0\PhoneRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecebs\RiderProjects\PhoneRecord\PhoneRecord\obj\Debug\net6.0\PhoneRecord.AssemblyInfoInputs.cache
+C:\Users\ecebs\RiderProjects\PhoneRecord\PhoneRecord\obj\Debug\net6.0\PhoneRecord.AssemblyInfo.cs
+C:\Users\ecebs\RiderProjects\PhoneRecord\PhoneRecord\obj\Debug\net6.0\PhoneRecord.csproj.CoreCompileInputs.cache
+C:\Users\ecebs\RiderProjects\PhoneRecord\PhoneRecord\obj\Debug\net6.0\PhoneRecord.dll
+C:\Users\ecebs\RiderProjects\PhoneRecord\PhoneRecord\obj\Debug\net6.0\refint\PhoneRecord.dll
+C:\Users\ecebs\RiderProjects\PhoneRecord\PhoneRecord\obj\Debug\net6.0\PhoneRecord.pdb
+C:\Users\ecebs\RiderProjects\PhoneRecord\PhoneRecord\obj\Debug\net6.0\PhoneRecord.genruntimeconfig.cache
+C:\Users\ecebs\RiderProjects\PhoneRecord\PhoneRecord\obj\Debug\net6.0\ref\PhoneRecord.dll
